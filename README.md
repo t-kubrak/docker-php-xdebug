@@ -1,0 +1,1 @@
+An example of docker container configured with php and xdebug.
